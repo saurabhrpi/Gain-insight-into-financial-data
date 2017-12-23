@@ -34,4 +34,31 @@ Name — A human-readable name for each page
 3. Report any logical groupings of the pages.  
 4. Report any outliers.  
 5. Take any user and recommend users similar to that user.  
-6. Do the same for pages.
+6. Do the same for pages.  
+
+### Analysis  
+
+** Data Exploration **  
+
+Two observations that can be made immediately :  
+* Just 15 percent of the users consitute more than 80% of the total views.  
+* Out of a total of 720 distinct page categories, top 35 most viewed constitute more than 90% of all the views.  
+* Total number of users are 1138.
+* Data is clean - zero nulls in the entire dataset.  
+
+** Outliers **
+Following pages seem to be irrelevant to provide any insights on the financial product, meaning they can be removed.  
+* Login  
+* Password  
+* Settings Summary  
+* New User Signup: Step 4  
+* Redirector  
+* Excel View  
+* PDF View  
+* New User Signup: Step 3  
+One of the users visited a page more than 1500 times on a given day. That seems suspicious. Hence should be removed.  
+
+Most of the views seem to have happened between 3PM to 8PM.
+
+
+
