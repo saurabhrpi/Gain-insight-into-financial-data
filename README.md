@@ -38,7 +38,7 @@ Name — A human-readable name for each page
 
 ### Analysis  
 
-** Data Exploration **  
+**Data Exploration**  
 
 Two observations that can be made immediately :  
 * Just 15 percent of the users consitute more than 80% of the total views.  
@@ -46,7 +46,7 @@ Two observations that can be made immediately :
 * Total number of users are 1138.
 * Data is clean - zero nulls in the entire dataset.  
 
-** Outliers **
+**Outliers**  
 Following pages seem to be irrelevant to provide any insights on the financial product, meaning they can be removed.  
 * Login  
 * Password  
