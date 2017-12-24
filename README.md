@@ -63,9 +63,8 @@ Following pages seem to be irrelevant to provide any insights on the financial p
 Steps followed to find out the most similar pages to page595 (Physical Survey):  
 * Based on visual analysis the model obtained seem to be a popularity based one, recommending the overall top most viewed pages  
 * Using Graphlab's unified interface for training recommender models that chooses the Item Similarity method (that ranks an item according to its similarity to other items observed for the user in question), following are the most similar pages found  and in that order:  
-&nbsp; * page505 : OTC Survey  
-&nbsp; * page605 : Forward Coal  
-&nbsp; * page597 : Energy Markets Coal Summary  
-&nbsp; * page696 : SNL Coal Forecast: Price  
-&nbsp; * page65 : MISO Capacity Markets  
-
+&nbsp; - page505 : OTC Survey  
+&nbsp; - page605 : Forward Coal  
+&nbsp; - page597 : Energy Markets Coal Summary  
+&nbsp; - page696 : SNL Coal Forecast: Price  
+&nbsp; - page65 : MISO Capacity Markets  
