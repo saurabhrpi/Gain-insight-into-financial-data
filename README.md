@@ -45,6 +45,7 @@ Two observations that can be made immediately :
 * Out of a total of 720 distinct page categories, top 35 most viewed constitute more than 90% of all the views.  
 * Total number of users are 1138.
 * Data is clean - zero nulls in the entire dataset.  
+* Most of the views seem to have happened between 3PM to 8PM.  
 
 **Outliers**  
 Following pages seem to be irrelevant to provide any insights on the financial product, meaning they can be removed.  
@@ -56,9 +57,15 @@ Following pages seem to be irrelevant to provide any insights on the financial p
 * Excel View  
 * PDF View  
 * New User Signup: Step 3  
-One of the users visited a page more than 1500 times on a given day. That seems suspicious. Hence should be removed.  
+* One of the users visited a page more than 1500 times on a given day. That seems suspicious. Hence should be removed.  
 
-Most of the views seem to have happened between 3PM to 8PM.
-
-
+**Recommendations**  
+Steps followed to find out the most similar pages to page595 (Physical Survey):  
+* Based on visual analysis the model obtained seem to be a popularity based one, recommending the overall top most viewed pages  
+* Using Graphlab's unified interface for training recommender models that chooses the Item Similarity method (that ranks an item according to its similarity to other items observed for the user in question), following are the most similar pages found  and in that order:  
+&nbsp; * page505 : OTC Survey  
+&nbsp; * page605 : Forward Coal  
+&nbsp; * page597 : Energy Markets Coal Summary  
+&nbsp; * page696 : SNL Coal Forecast: Price  
+&nbsp; * page65 : MISO Capacity Markets  
 
