@@ -36,7 +36,7 @@ Name — A human-readable name for each page
 5. Take any user and recommend users similar to that user.  
 6. Do the same for pages.  
 
-### Analysis  
+## Analysis  
 
 **Data Exploration**  
 
