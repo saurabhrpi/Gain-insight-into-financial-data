@@ -59,7 +59,7 @@ Following pages seem to be irrelevant to provide any insights on the financial p
 * New User Signup: Step 3  
 * One of the users visited a page more than 1500 times on a given day. That seems suspicious. Hence should be removed.  
 
-**Recommendations**  
+## Recommendations  
 Steps followed to find out the most similar pages to page595 (Physical Survey):  
 * Based on visual analysis the model obtained seem to be a popularity based one, recommending the overall top most viewed pages  
 * Using Graphlab's unified interface for training recommender models that chooses the Item Similarity method (that ranks an item according to its similarity to other items observed for the user in question), following are the most similar pages found  and in that order:  
