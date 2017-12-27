@@ -57,7 +57,8 @@ Following pages seem to be irrelevant to provide any insights on the financial p
 * Excel View  
 * PDF View  
 * New User Signup: Step 3  
-* One of the users visited a page more than 1500 times on a given day. That seems suspicious. Hence should be removed.  
+
+One of the users visited a page more than 1500 times on a given day. That seems suspicious. Hence should be removed.  
 
 ## Recommendations  
 Steps followed to find out the most similar pages to page595 (Physical Survey):  
