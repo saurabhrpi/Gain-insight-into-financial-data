@@ -15,13 +15,15 @@ user account loads a particular web page on the website, that consitiutes one pa
 There are two files in the dataset:  
 - page_usage.csv : Conatins records of distinct page view events.  
 - page_names.csv : Contains metadata about the web pages.  
+
 The columns in the page_usage.csv file are:  
 - userID : Indicates the user account that initiated the page view. The values are unique IDs for end
 user accounts.  
-_ pageID : Indicates the web page that the user viewed. The values are unique IDs for web pages on
+- pageID : Indicates the web page that the user viewed. The values are unique IDs for web pages on
 the website.  
 - day : the day in the three-month period on which the page view occurred.  
 - time : indicates the time-of-day at which the page view occurred.  
+
 The columns in the page_names.csv file are:  
 - pageID : Unique IDs for web pages on the the website. These are consistent with the pageID
 column in the page_usage.csv file.  
