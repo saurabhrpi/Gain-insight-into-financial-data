@@ -66,8 +66,8 @@ One of the users visited a page more than 1500 times on a given day. That seemed
 Steps followed to find out the most similar pages to page595 (Physical Survey):  
 * Based on visual analysis the model obtained seem to be a popularity based one, recommending the overall top most viewed pages  
 * Using Graphlab's unified interface for training recommender models that chooses the Item Similarity method (that ranks an item according to its similarity to other items observed for the user in question), following are the most similar pages found  and in that order:  
--- page505 : OTC Survey  
--- page605 : Forward Coal  
--- page597 : Energy Markets Coal Summary  
--- page696 : SNL Coal Forecast: Price  
--- page65 : MISO Capacity Markets  
+&nbsp; page505 : OTC Survey  
+&nbsp; page605 : Forward Coal  
+&nbsp; page597 : Energy Markets Coal Summary  
+&nbsp; page696 : SNL Coal Forecast: Price  
+&nbsp; page65 : MISO Capacity Markets  
