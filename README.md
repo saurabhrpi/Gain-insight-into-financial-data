@@ -2,7 +2,7 @@
 Provide recommendations to the users of a fintech org about web pages they haven't used yet, but are likely to find valuable.
 
 ## Introduction  
-
+ 
 A fintech org has a very complex product suite. The website alone contains over 1,000 distinct pages which
 provides their clients with access to hundreds of different market and business intelligence datasets. This
 complexity can often make it difficult both for the end users to find the information they need, and for the
