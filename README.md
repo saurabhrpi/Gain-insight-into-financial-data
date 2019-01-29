@@ -7,7 +7,7 @@ A fintech org has a very complex product suite. The website alone contains over 
 provides their clients with access to hundreds of different market and business intelligence datasets. This
 complexity can often make it difficult both for the end users to find the information they need, and for the
 company's employees to understand how the clients use their products.  
-
+ 
 ## Dataset
 
 The dataset consists of page view events on their website for a selected three-month period. When a particular
