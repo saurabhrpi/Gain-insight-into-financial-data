@@ -70,4 +70,4 @@ Steps followed to find out the most similar pages to page595 (Physical Survey):
 &nbsp; page605 : Forward Coal  
 &nbsp; page597 : Energy Markets Coal Summary  
 &nbsp; page696 : SNL Coal Forecast: Price  
-&nbsp; page65 : MISO Capacity Markets  
+&nbsp; page65 : MISO Capacity Markets   
